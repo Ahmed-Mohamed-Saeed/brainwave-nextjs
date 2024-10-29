@@ -2,7 +2,7 @@
 
 Welcome to the Brainwave project! This is a modern AI landing page crafted with the sleek TailwindCSS framework and the powerful Next.js library.
 
-![Brainwave](https://github.com/Ahmed-Mohamed-Saeed/brainwave-nextjs/tree/main/public/assets/mockup.png "This site looks cool doesn't it?")
+![Brainwave](https://github.com/Ahmed-Mohamed-Saeed/brainwave-nextjs/blob/master/public/assets/mockup.png "This site looks cool doesn't it?")
 
 ## Overview
 
